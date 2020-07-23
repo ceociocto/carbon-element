@@ -1,0 +1,28 @@
+$--border-radius-base: 0;
+$--button-padding-vertical: 10px;
+$--button-padding-horizontal: $spacing-05;
+$--button-default-font-color: $interactive-03;
+$--button-default-border-color: $interactive-03;
+
+.el-button {
+  &:hover {
+    color: $text-04 !important;
+    background: $hover-tertiary !important;
+  }
+  &:focus {
+    color: $text-04 !important;
+    background: $interactive-03 !important;
+  }
+  &:active {
+    color: $text-04 !important;
+    background: $active-tertiary !important;
+  }
+}
+.el-icon--right {
+  margin-left: 1rem !important;
+}
+.el-input__inner {
+  &:not(:focus) {
+    border-bottom: 1px solid $ui-04 !important;
+  }
+}

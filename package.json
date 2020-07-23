@@ -1,0 +1,24 @@
+{
+  "name": "carbon-element",
+  "version": "0.2.1",
+  "description": "An easy to use IBM Carbon Design and ElementUI UI framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceociocto/carbon-element.git"
+  },
+  "keywords": [
+    "['carbon'",
+    "'element-ui'",
+    "'vue']"
+  ],
+  "author": "Li Jie <ceociocto@qq.com> (http://github.com/ceociocto)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceociocto/carbon-element/issues"
+  },
+  "homepage": "https://github.com/ceociocto/carbon-element#readme"
+}

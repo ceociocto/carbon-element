@@ -1,0 +1,10 @@
+$--input-height: 2.5rem;
+$--input-background-color: $field-01;
+$--input-hover-border: $field-01;
+$--input-focus-border: $focus;
+
+.el-input__inner {
+  &:not(:focus) {
+    border-bottom: 1px solid $ui-04 !important;
+  }
+}
