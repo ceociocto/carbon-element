@@ -3,8 +3,8 @@ An easy to use [IBM Carbon](https://carbondesignsystem.com/components/button/usa
 
 ## Who need this?
 - If you love (or had to) use [IBM Carbon Design System](https://carbondesignsystem.com/)
-- If [@carbon/vue](https://github.com/carbon-design-system/carbon-components-vue) is not enough (or easy) for you
-- If you like the components of ElementUI
+- If [@carbon/vue](https://github.com/carbon-design-system/carbon-components-vue) ![Github stars](https://img.shields.io/github/stars/carbon-design-system/carbon-components-vue.svg) is not enough (or easy) for you
+- If you like the components of [Element](https://github.com/ElemeFE/element) ![Github stars](https://img.shields.io/github/stars/ElemeFE/element.svg)
 
 ## How to use?
 - Install

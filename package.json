@@ -11,9 +11,10 @@
     "url": "git+https://github.com/ceociocto/carbon-element.git"
   },
   "keywords": [
-    "['carbon'",
-    "'element-ui'",
-    "'vue']"
+    "IBM",
+    "carbon",
+    "element-ui",
+    "vue"
   ],
   "author": "Li Jie <ceociocto@qq.com> (http://github.com/ceociocto)",
   "license": "ISC",
